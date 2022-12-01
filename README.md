@@ -32,7 +32,7 @@ Where I need to use Git and try to make versions and get a god structure.
 
 ![image](https://user-images.githubusercontent.com/89253662/205081455-bb28fe49-7308-458a-accf-d6e714cedcc5.png)
 
--And after you have tast enter so the programm will calculate the fat % and your Oxygen consumstion.
+- And after you have tast enter so the programm will calculate the fat % and your Oxygen consumstion.
 
 ## Tags
 
