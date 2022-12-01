@@ -28,11 +28,11 @@ Where I need to use Git and try to make versions and get a god structure.
 
 ![image](https://user-images.githubusercontent.com/89253662/205081379-716df41d-663a-4fd1-9497-6b87ac793691.png)
 
-- You can input your minimun and maximum puls, and bodyweight and tast enter.
+You can input your minimun and maximum puls, and bodyweight and tast enter.
 
 ![image](https://user-images.githubusercontent.com/89253662/205081455-bb28fe49-7308-458a-accf-d6e714cedcc5.png)
 
-- And after you have tast enter so the programm will calculate the fat % and your Oxygen consumstion.
+And after you have tast enter so the programm will calculate the fat % and your Oxygen consumstion.
 
 ## Tags
 
